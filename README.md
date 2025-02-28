@@ -3,6 +3,7 @@ VizTrust is still work-in-progress. We will publicly launch this tool online and
 
 ## Project current stage
 * Jan 2025 - VizTrust v1
+  
   Accepted by ACM CHI'25 as a late breaking work.
 
 ## Work in progress
