@@ -2,9 +2,9 @@
 VizTrust is still work-in-progress. We will publicly launch this tool online and open-access the code in this repo in the future.
 
 ## Project current stage
-* Jan 2025 - VizTrust v1
+* Jan 2025: VizTrust-v1
   
-  Accepted by ACM CHI'25 as a late breaking work.
+  Accepted by __ACM CHI'25__ as a late breaking work (acceptance rate: 32.83%).
 
 ## Work in progress
 - Develop personalized trust evaluaton reasoning path
