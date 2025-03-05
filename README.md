@@ -11,4 +11,4 @@ VizTrust is still work-in-progress. We will make this tool publicly accessible i
 - Develop advanced analytical features
 
 ## Contact 
-If you have any question or feedback, feel free to contact the tool developer, Vision(Xin) Wang, at xwang314@binghamton.edu
+If you have any question or feedback or want to share your thoughts about this tool, 🎉 feel free to contact the tool developer, Vision(Xin) Wang, at xwang314@binghamton.edu
