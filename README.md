@@ -2,7 +2,7 @@
 VizTrust is still work-in-progress. We will make this tool publicly accessible in this repo in the future.
 
 ## Project current stage
-* May 2025: VizTrust project successfully landed first research funding support from __the Center of Cognitive Applications__ at __Binghamton University__. 🎉
+* May 2025: VizTrust project successfully landed first research funding support ($3,012.58) from __the Center of Cognitive Applications__ at __Binghamton University__. 🎉
 * Jan 2025: We finished first iteration of focus group with 8 researchers with research focus on conversational AI, human-computer interaction, UX design, and psychology.
 * Feb 2025: VizTrust-v1 - Accepted by __ACM CHI'25__ as a late breaking work (acceptance rate: 32.83%). Link: https://xin-wang-kr.github.io/VizTrust-CHI25/
 
