@@ -1,5 +1,3 @@
-# Thank you for everyone's interest in VizTrust and your emails to request access to this tool. This project and I are facing a challenging time due to the NSF reduction in the US. The orignal plan to open access this tool has to be delayed due to the situation. If you would like to donate or support this work to continue, welcome to contact me at xwang314@binghamton.edu . Thanks!
-
 # VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication
 VizTrust is still work-in-progress. We will make this tool publicly accessible in this repo in the future.
 
@@ -14,4 +12,4 @@ VizTrust is still work-in-progress. We will make this tool publicly accessible i
 - Develop advanced analytical features
 
 ## Contact 
-If you have any question or feedback or want to share your thoughts about this tool or even want to give funding support to this project, feel free to contact the tool developer, Vision(Xin) Wang, at xwang314@binghamton.edu . Thanks!
+If you have any question or feedback or want to share your thoughts about this tool or even want to give funding support to this project, feel free to contact the tool developer, Vision(Xin) Wang, at xwang314@binghamton.edu . If you would like to donate to support this work, also welcom to contact. Thanks!
