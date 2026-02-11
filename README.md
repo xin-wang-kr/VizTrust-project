@@ -1,3 +1,5 @@
+# Thank you for those interested in VizTrust. This work and I are facing funding difficulties in USA. So the original plan is delayed. If you would like to support this work to continue, feel free to contact me at xwang314@binghamton.edu. Thanks!
+
 # VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication
 VizTrust is still work-in-progress. We will make this tool publicly accessible in this repo in the future.
 
